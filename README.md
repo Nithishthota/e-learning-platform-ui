@@ -36,4 +36,4 @@ Live Demo: Elearning Frontend
 
 OUTPUT:
    
-   
+   ![Image](https://github.com/user-attachments/assets/02560630-e1ac-44d8-bffb-ba66e4ae42b8)
